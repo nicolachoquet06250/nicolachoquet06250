@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/nicolas06250" style="display: inline-block; width: 50px; height: auto;"><img src="https://api.daily.dev/devcards/f299db81b15741d9aea7d5a965ace34b.png?r=rq3" width="400" alt="Choquet Nicolas's Dev Card"/></a>
+<div style="width: 50px">
+  <a href="https://app.daily.dev/nicolas06250">
+    <img src="https://api.daily.dev/devcards/f299db81b15741d9aea7d5a965ace34b.png?r=rq3" width="400" alt="Choquet Nicolas's Dev Card"/>
+  </a>
+</div>
