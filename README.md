@@ -108,14 +108,14 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
         <img 
             src="./assets/one-piece-logo.png" 
             alt="logo One piece" 
-            style="width: 50%;"
+            style="width: 50%; min-width: 200px;"
         >
     </div>
     <div style="width: 50%; min-width: 200px; display: flex; justify-content: center; align-items: center;">
         <img 
             src="./assets/meta-quest-2.png" 
             alt="Meta quest 2" 
-            style="width: 50%;"
+            style="width: 50%; min-width: 200px;"
         >
     </div>
 </div>
