@@ -48,7 +48,7 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 ## Mes projets phares
 
 ### WebOS Apple (Portfolio)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/nicolachoquet06250/portfolio-apple/blob/main/screenshots/1280x800-screenshot.png)
 
 | Client :| ![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js&logoColor=green) | ![Pinia](https://img.shields.io/badge/Pinia-000?style=for-the-badge&logo=vue.js&logoColor=green) | ![Sass](https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass&logoColor=pin) |
 |--|--|--|--|
