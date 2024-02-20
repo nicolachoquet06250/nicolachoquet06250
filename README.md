@@ -50,6 +50,15 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 ### WebOS Apple (Portfolio)
 <img src="https://github.com/nicolachoquet06250/portfolio-apple/blob/main/screenshots/1280x800-screenshot.png" alt="App Screenshot" style="max-width: 100%; width: 500px">
 
-| Client :| ![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js&logoColor=green) | ![Pinia](https://img.shields.io/badge/Pinia-000?style=for-the-badge&logo=vue.js&logoColor=green) | ![Sass](https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass&logoColor=pin) |
-|--|--|--|--|
-<!--| **Serveur :** | ![node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=green) | ![express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=node.js&logoColor=green) |-->
+#### Technologies utilisées
+
+ | ![node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=green)| ![Vite.js](https://img.shields.io/badge/Vite.js-000?style=for-the-badge&logo=vite&logoColor=purple) | ![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js&logoColor=green) | ![Pinia](https://img.shields.io/badge/Pinia-000?style=for-the-badge&logo=vue.js&logoColor=green) | ![Sass](https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass&logoColor=pin) |
+|--|--|--|--|--|
+
+### Framework de création d'aliases complexes
+<img src="./assets/screenshot-bash-framework.png" alt="App Screenshot" style="max-width: 100%; width: 500px">
+
+#### Technologies utilisées
+
+| ![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=linux&logoColor=white) | ![Powershell](https://img.shields.io/badge/Powershell-000?style=for-the-badge&logo=powershell&logoColor=blue) |
+|--|--|
