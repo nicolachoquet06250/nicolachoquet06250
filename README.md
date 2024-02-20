@@ -87,7 +87,7 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 #### Technologies utilisées
 
 | ![Vite.js](https://img.shields.io/badge/Vite.js-000?style=for-the-badge&logo=vite&logoColor=purple) | ![React](https://img.shields.io/badge/React.js-000?style=for-the-badge&logo=react&logoColor=blue) | ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=purple) | ![ReactUse](https://img.shields.io/badge/React_Use-000?style=for-the-badge&logo=react&logoColor=blue)
-|--|--|--|--|
+|--|--|--|--|--|
 
 ### Editeur visuel en Vue pour Vue
 <img src="./assets/vue-visual-editor-screenshot.png" alt="App Screenshot" style="max-width: 100%; width: 500px">
