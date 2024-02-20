@@ -47,6 +47,7 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 
 #### Liens
 - https://nicolaschoquet.fr
+- https://github.com/nicolachoquet06250/portfolio-apple
 
 #### Technologies utilisées
 
