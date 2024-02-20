@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Profile Header](./assets/profile-header.png)
+![Profile Header](./assets/profile-header.png | width=100)
 
 
 # Nicolas Choquet
