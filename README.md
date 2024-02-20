@@ -74,7 +74,7 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 
 #### Technologies utilisées
 
-| ![Golang](https://img.shields.io/badge/Golang-000?style=for-the-badge&logo=go&logoColor=cyan) | ![HTML](https://img.shields.io/badge/Html-000?style=for-the-badge&logo=html5&logoColor=orange) | ![CSS](https://img.shields.io/badge/css_3-000?style=for-the-badge&logo=css3&logoColor=blue) | ![JavaScript](https://img.shields.io/badge/css_3-000?style=for-the-badge&logo=javascript&logoColor=yellow) | ![GitHub Actions](https://img.shields.io/badge/github_actions-000?style=for-the-badge&logo=github&logoColor=white) |
+| ![Golang](https://img.shields.io/badge/Golang-000?style=for-the-badge&logo=go&logoColor=cyan) | ![HTML](https://img.shields.io/badge/Html-000?style=for-the-badge&logo=html5&logoColor=orange) | ![CSS](https://img.shields.io/badge/css_3-000?style=for-the-badge&logo=css3&logoColor=blue) | ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow) | ![GitHub Actions](https://img.shields.io/badge/github_actions-000?style=for-the-badge&logo=github&logoColor=white) |
 |--|--|--|--|--|
 
 ### Editeur visuel en React pour React
