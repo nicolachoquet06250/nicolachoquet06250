@@ -28,8 +28,6 @@ En gros on peux absoluement tout faire avec en partant évidement du web classiq
 [![Choquet Nicolas's Dev Card](https://api.daily.dev/devcards/v2/cHc6XLZhteM0Ws18o8K5W.png?type=wide&r=zli)](https://app.daily.dev/nicolas06250)
 
 
-
-
 ## 🚀 À propos de moi
 
 J'ai 28 ans et je suis absoluement passionné de prog.
@@ -42,27 +40,24 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 |--|--|
 
 
-
-
-
 ## Mes projets phares
 
 ### WebOS Apple (Portfolio)
 <img src="https://github.com/nicolachoquet06250/portfolio-apple/blob/main/screenshots/1280x800-screenshot.png" alt="App Screenshot" style="max-width: 100%; width: 500px">
 
-#### Lien
-https://nicolaschoquet.fr
+#### Liens
+- https://nicolaschoquet.fr
 
 #### Technologies utilisées
 
- | ![node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=green)| ![Vite.js](https://img.shields.io/badge/Vite.js-000?style=for-the-badge&logo=vite&logoColor=purple) | ![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js&logoColor=green) | ![Pinia](https://img.shields.io/badge/Pinia-000?style=for-the-badge&logo=vue.js&logoColor=green) | ![Sass](https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass&logoColor=pin) |
+ | ![node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=green) | ![Vite.js](https://img.shields.io/badge/Vite.js-000?style=for-the-badge&logo=vite&logoColor=purple) | ![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js&logoColor=green) | ![Pinia](https://img.shields.io/badge/Pinia-000?style=for-the-badge&logo=vue.js&logoColor=green) | ![Sass](https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass&logoColor=pin) |
 |--|--|--|--|--|
 
 ### Framework de création d'aliases complexes
 <img src="./assets/screenshot-bash-framework.png" alt="App Screenshot" style="max-width: 100%; width: 500px">
 
-#### Lien
-https://github.com/nicolachoquet06250/bash-aliases-framework
+#### Liens
+- https://github.com/nicolachoquet06250/bash-aliases-framework
 
 #### Technologies utilisées
 
@@ -72,12 +67,36 @@ https://github.com/nicolachoquet06250/bash-aliases-framework
 ### La Devengers Toolbox
 <img src="https://github.com/nicolachoquet06250/norsys-devengers-toolbox/blob/main/.github/screenshot.png" alt="App Screenshot" style="max-width: 100%; width: 500px">
 
-#### Lien
+#### Liens
 - https://github.com/nicolachoquet06250/norsys-devengers-toolbox
 - https://github.com/nicolachoquet06250/norsys-devengers-toolbox/releases/latest
 
 #### Technologies utilisées
 
-| ![Golang](https://img.shields.io/badge/Golang-000?style=for-the-badge&logo=go&logoColor=cyan) | ![HTML](https://img.shields.io/badge/Html-000?style=for-the-badge&logo=html5&logoColor=orange) | ![CSS](https://img.shields.io/badge/css_3-000?style=for-the-badge&logo=css3&logoColor=blue) | ![JavaScript](https://img.shields.io/badge/css_3-000?style=for-the-badge&logo=javascript&logoColor=yellow) | ![JavaScript](https://img.shields.io/badge/github_actions-000?style=for-the-badge&logo=github&logoColor=white) |
+| ![Golang](https://img.shields.io/badge/Golang-000?style=for-the-badge&logo=go&logoColor=cyan) | ![HTML](https://img.shields.io/badge/Html-000?style=for-the-badge&logo=html5&logoColor=orange) | ![CSS](https://img.shields.io/badge/css_3-000?style=for-the-badge&logo=css3&logoColor=blue) | ![JavaScript](https://img.shields.io/badge/css_3-000?style=for-the-badge&logo=javascript&logoColor=yellow) | ![GitHub Actions](https://img.shields.io/badge/github_actions-000?style=for-the-badge&logo=github&logoColor=white) |
 |--|--|--|--|--|
+
+### Editeur visuel en React pour React
+<img src="./assets/react-visual-editor-screenshot.png" alt="App Screenshot" style="max-width: 100%; width: 500px">
+
+#### Liens
+- https://visual-editor.react.nicolaschoquet.fr/
+- https://github.com/nicolachoquet06250/react-visual-editor
+
+#### Technologies utilisées
+
+| ![Vite.js](https://img.shields.io/badge/Vite.js-000?style=for-the-badge&logo=vite&logoColor=purple)| ![React](https://img.shields.io/badge/React.js-000?style=for-the-badge&logo=react&logoColor=blue) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=purple) | ![ReactUse](https://img.shields.io/badge/React_Use-000?style=for-the-badge&logo=react&logoColor=blue)
+|--|--|--|--|
+
+### Editeur visuel en Vue pour Vue
+<img src="./assets/vue-visual-editor-screenshot.png" alt="App Screenshot" style="max-width: 100%; width: 500px">
+
+#### Liens
+- https://visual-editor.vue.nicolaschoquet.fr/
+- https://github.com/nicolachoquet06250/vuesual-editor
+
+#### Technologies utilisées
+
+| ![Vite.js](https://img.shields.io/badge/Vite.js-000?style=for-the-badge&logo=vite&logoColor=purple)| ![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js&logoColor=green) | ![VueUse](https://img.shields.io/badge/Vue_Use-000?style=for-the-badge&logo=vue.js&logoColor=green)
+|--|--|--|
 
