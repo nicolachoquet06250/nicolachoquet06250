@@ -42,7 +42,7 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
         alt="mon site perso" 
         style="display: inline-block;">
 </a>
-<a href="https://www.linkedin.com/in/nicolas-choquet-23323993/"  style="text-decoration: none;">
+<a href="https://www.linkedin.com/in/nicolas-choquet-23323993/" style="text-decoration: none;">
     <img 
         src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
         alt="linkedin" 
