@@ -51,8 +51,9 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 
 #### Technologies utilisées
 
- | ![node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=green) | ![Vite.js](https://img.shields.io/badge/Vite.js-000?style=for-the-badge&logo=vite&logoColor=purple) | ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=pin) | ![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js&logoColor=pin) | ![Pinia](https://img.shields.io/badge/Pinia-000?style=for-the-badge&logo=vue.js&logoColor=pin) | ![Sass](https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass&logoColor=pin) | ![VueUse](https://img.shields.io/badge/Vue_Use-000?style=for-the-badge&logo=vue.js&logoColor=pin) |
-|--|--|--|--|--|--|--|
+ | ![node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=green) | ![Vite.js](https://img.shields.io/badge/Vite.js-000?style=for-the-badge&logo=vite&logoColor=purple) | ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=pin) | ![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js&logoColor=pin) |
+|--|--|--|--|
+| ![Pinia](https://img.shields.io/badge/Pinia-000?style=for-the-badge&logo=vue.js&logoColor=pin) | ![Sass](https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass&logoColor=pin) | ![VueUse](https://img.shields.io/badge/Vue_Use-000?style=for-the-badge&logo=vue.js&logoColor=pin) |
 
 ### Framework de création d'aliases complexes
 <img src="./assets/screenshot-bash-framework.png" alt="App Screenshot" style="max-width: 100%; width: 500px">
