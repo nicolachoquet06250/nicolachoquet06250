@@ -36,8 +36,20 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 
 
 ## 🔗 Mes réseaux
-| [![mon site perso](https://img.shields.io/badge/mon_site_perso-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nicolaschoquet.fr) | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-choquet-23323993/) |
-|--|--|
+<a href="https://nicolaschoquet.fr">
+    <img 
+        src="https://img.shields.io/badge/mon_site_perso-000?style=for-the-badge&logo=ko-fi&logoColor=white" 
+        alt="mon site perso" 
+        style="display: inline-block;"
+    >
+</a>
+<a href="https://www.linkedin.com/in/nicolas-choquet-23323993/">
+    <img 
+        src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+        alt="linkedin" 
+        style="display: inline-block;"
+    >
+</a>
 
 
 ## Mes projets phares
