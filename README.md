@@ -196,14 +196,14 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 
 ## Indice sur mon prochain projet 😉
 
-<table>
+<table style="border-collapse: unset;">
     <tr>
-        <td>
+        <td style="border: none;">
             <img 
                 src="./assets/one-piece-logo.png" 
                 alt="logo One piece">
         </td>
-        <td>
+        <td style="border: none;">
             <img 
                 src="./assets/meta-quest-2.png" 
                 alt="Meta quest 2">
