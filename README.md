@@ -210,3 +210,10 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
         </td>
     </tr>
 </table>
+
+<details>
+    <summary>Cliquez ici pour télécharger mon CV ...</summary>
+
+- [Au format PDF](./assets/cv_assets/CV%20Nicolas%20Choquet%202024.pdf)
+- [Au format DOCX](./assets/cv_assets/CV%20Nicolas%20Choquet%202024.docx)
+</details>
