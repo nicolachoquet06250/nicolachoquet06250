@@ -125,7 +125,7 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
     alt="HTML" 
     style="display: inline-block;">
 <img 
-    src="https://img.shields.io/badge/css_3-000?style=for-the-badge&logo=css3&logoColor=pin" 
+    src="https://img.shields.io/badge/css_3-000?style=for-the-badge&logo=css3&logoColor=2a65f1" 
     alt="CSS 3" 
     style="display: inline-block;">
 <img 
