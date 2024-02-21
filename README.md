@@ -36,19 +36,17 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 
 
 ## 🔗 Mes réseaux
-<a href="https://nicolaschoquet.fr">
+<a href="https://nicolaschoquet.fr" style="text-decoration: none;">
     <img 
         src="https://img.shields.io/badge/mon_site_perso-000?style=for-the-badge&logo=ko-fi&logoColor=white" 
         alt="mon site perso" 
-        style="display: inline-block;"
-    >
+        style="display: inline-block;">
 </a>
-<a href="https://www.linkedin.com/in/nicolas-choquet-23323993/">
+<a href="https://www.linkedin.com/in/nicolas-choquet-23323993/"  style="text-decoration: none;">
     <img 
         src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
         alt="linkedin" 
-        style="display: inline-block;"
-    >
+        style="display: inline-block;">
 </a>
 
 
@@ -63,9 +61,34 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 
 #### Technologies utilisées
 
- | ![node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=green) | ![Vite.js](https://img.shields.io/badge/Vite.js-000?style=for-the-badge&logo=vite&logoColor=purple) | ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=pin) | ![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js&logoColor=pin) |
-|--|--|--|--|
-| ![Pinia](https://img.shields.io/badge/Pinia-000?style=for-the-badge&logo=vue.js&logoColor=pin) | ![Sass](https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass&logoColor=pin) | ![VueUse](https://img.shields.io/badge/Vue_Use-000?style=for-the-badge&logo=vue.js&logoColor=pin) |
+<img 
+    src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=pin" 
+    alt="node" 
+    style="display: inline-block;">
+<img 
+    src="https://img.shields.io/badge/Vite.js-000?style=for-the-badge&logo=vite&logoColor=pin" 
+    alt="Vite.js" 
+    style="display: inline-block;">
+<img 
+    src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=pin" 
+    alt="TypeScript" 
+    style="display: inline-block;">
+<img 
+    src="https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js&logoColor=pin" 
+    alt="Vue.js" 
+    style="display: inline-block;">
+<img 
+    src="https://img.shields.io/badge/Pinia-000?style=for-the-badge&logo=vue.js&logoColor=pin" 
+    alt="Pinia" 
+    style="display: inline-block;">
+<img 
+    src="https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass&logoColor=pin" 
+    alt="Sass" 
+    style="display: inline-block;">
+<img 
+    src="https://img.shields.io/badge/Vue_Use-000?style=for-the-badge&logo=vue.js&logoColor=pin" 
+    alt="Vue use" 
+    style="display: inline-block;">
 
 ### Framework de création d'aliases complexes
 <img src="./assets/screenshot-bash-framework.png" alt="App Screenshot" style="max-width: 100%; width: 500px">
@@ -75,8 +98,14 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 
 #### Technologies utilisées
 
-| ![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=linux&logoColor=white) | ![Powershell](https://img.shields.io/badge/Powershell-000?style=for-the-badge&logo=powershell&logoColor=blue) |
-|--|--|
+<img 
+    src="https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=linux&logoColor=white" 
+    alt="Bash" 
+    style="display: inline-block;">
+<img 
+    src="https://img.shields.io/badge/Powershell-000?style=for-the-badge&logo=powershell&logoColor=pin" 
+    alt="Powershell" 
+    style="display: inline-block;">
 
 ### La Devengers Toolbox
 <img src="https://github.com/nicolachoquet06250/norsys-devengers-toolbox/blob/main/.github/screenshot.png" alt="App Screenshot" style="max-width: 100%; width: 500px">
@@ -87,9 +116,26 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 
 #### Technologies utilisées
 
-| ![Golang](https://img.shields.io/badge/Golang-000?style=for-the-badge&logo=go&logoColor=cyan) | ![HTML](https://img.shields.io/badge/Html-000?style=for-the-badge&logo=html5&logoColor=orange) | ![CSS](https://img.shields.io/badge/css_3-000?style=for-the-badge&logo=css3&logoColor=blue) | ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow) | 
-|--|--|--|--|
-| ![GitHub Actions](https://img.shields.io/badge/github_actions-000?style=for-the-badge&logo=github&logoColor=white) |
+<img 
+    src="https://img.shields.io/badge/Golang-000?style=for-the-badge&logo=go&logoColor=pin" 
+    alt="Golang" 
+    style="display: inline-block;">
+<img 
+    src="https://img.shields.io/badge/Html-000?style=for-the-badge&logo=html5&logoColor=pin" 
+    alt="HTML" 
+    style="display: inline-block;">
+<img 
+    src="https://img.shields.io/badge/css_3-000?style=for-the-badge&logo=css3&logoColor=pin" 
+    alt="CSS 3" 
+    style="display: inline-block;">
+<img 
+    src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=pin" 
+    alt="JavaScript" 
+    style="display: inline-block;">
+<img 
+    src="https://img.shields.io/badge/github_actions-000?style=for-the-badge&logo=github&logoColor=pin" 
+    alt="JavaScript" 
+    style="display: inline-block;">
 
 ### Editeur visuel en React pour React
 <img src="./assets/react-visual-editor-screenshot.png" alt="App Screenshot" style="max-width: 100%; width: 500px">
@@ -100,9 +146,27 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 
 #### Technologies utilisées
 
-| ![Vite.js](https://img.shields.io/badge/Vite.js-000?style=for-the-badge&logo=vite&logoColor=purple) | ![React](https://img.shields.io/badge/React.js-000?style=for-the-badge&logo=react&logoColor=blue) | ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=purple) |
-|--|--|--|--|
-| ![ReactUse](https://img.shields.io/badge/React_Use-000?style=for-the-badge&logo=react&logoColor=blue) |
+<img 
+    src="https://img.shields.io/badge/Vite.js-000?style=for-the-badge&logo=vite&logoColor=pin" 
+    alt="Vite.js" 
+    style="display: inline-block;">
+<img 
+    src="https://img.shields.io/badge/React.js-000?style=for-the-badge&logo=react&logoColor=pin" 
+    alt="React.js" 
+    style="display: inline-block;">
+<img 
+    src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=pin" 
+    alt="JavaScript" 
+    style="display: inline-block;">
+<img 
+    src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=pin" 
+    alt="Bootstrap" 
+    style="display: inline-block;">
+<img 
+    src="https://img.shields.io/badge/React_Use-000?style=for-the-badge&logo=react&logoColor=pin" 
+    alt="React Use" 
+    style="display: inline-block;">
+
 
 ### Editeur visuel en Vue pour Vue
 <img src="./assets/vue-visual-editor-screenshot.png" alt="App Screenshot" style="max-width: 100%; width: 500px">
@@ -113,8 +177,22 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 
 #### Technologies utilisées
 
-| ![Vite.js](https://img.shields.io/badge/Vite.js-000?style=for-the-badge&logo=vite&logoColor=purple)| ![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js&logoColor=pin) | ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow) | ![VueUse](https://img.shields.io/badge/Vue_Use-000?style=for-the-badge&logo=vue.js&logoColor=pin)
-|--|--|--|--|
+<img 
+    src="https://img.shields.io/badge/Vite.js-000?style=for-the-badge&logo=vite&logoColor=pin" 
+    alt="Vite.js" 
+    style="display: inline-block;">
+<img 
+    src="https://img.shields.io/badge/Vue_3_-000?style=for-the-badge&logo=vue.js&logoColor=pin" 
+    alt="Vue.js" 
+    style="display: inline-block;">
+<img 
+    src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=pin" 
+    alt="JavaScript" 
+    style="display: inline-block;">
+<img 
+    src="https://img.shields.io/badge/Vue_Use-000?style=for-the-badge&logo=vue.js&logoColor=pin" 
+    alt="Vue Use" 
+    style="display: inline-block;">
 
 ## Indice sur mon prochain projet 😉
 
