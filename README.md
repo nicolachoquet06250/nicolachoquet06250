@@ -196,19 +196,15 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 
 ## Indice sur mon prochain projet 😉
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap">
-    <div style="width: 50%; min-width: 200px; display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; gap: 2px">
+    <div style="height: 200px; width: 49%; min-width: 200px; display: flex; background: red; justify-content: center; align-items: center;">
         <img 
             src="./assets/one-piece-logo.png" 
-            alt="logo One piece" 
-            style="width: 50%; min-width: 200px;"
-        >
+            alt="logo One piece">
     </div>
-    <div style="width: 50%; min-width: 200px; display: flex; justify-content: center; align-items: center;">
+    <div style="height: 200px; width: 49%; min-width: 200px; display: flex; background: red; justify-content: center; align-items: center;">
         <img 
             src="./assets/meta-quest-2.png" 
-            alt="Meta quest 2" 
-            style="width: 50%; min-width: 200px;"
-        >
+            alt="Meta quest 2">
     </div>
 </div>
