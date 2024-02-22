@@ -36,10 +36,12 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 
 
 ## 🔗 Mes réseaux
-<object 
-    data="https://img.shields.io/badge/Mon_site_perso-fff?style=social&logo=apple&logoColor=pin&link=https%3A%2F%2Fwww.nicolaschoquet.fr"
-    style="display: inline-block;" />
-
+<a href="https://nicolaschoquet.fr" style="text-decoration: none;">
+    <img 
+        src="https://img.shields.io/badge/Mon_site_perso-fff?style=social&logo=apple&logoColor=pin" 
+        alt="Mon site perso" 
+        style="display: inline-block;">
+</a>
 <a href="https://www.linkedin.com/in/nicolas-choquet-23323993/" style="text-decoration: none;">
     <img 
         src="https://img.shields.io/badge/linkedin-0A66C2?style=social&logo=linkedin&logoColor=white" 
