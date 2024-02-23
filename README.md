@@ -198,10 +198,10 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
     </tr>
 </table>
 
-Pour cela, je cherche un modelisateur 3D qui maitrise ![Blender](https://img.shields.io/badge/Blender-fff?style=flat&logo=blender&logoColor=pin) mais surtout j'ai besoin que cette personne ai du temps libre à donner car étant donné que la licence appartient en grosse partie à ![Blender](https://img.shields.io/badge/Netflix-fff?style=flat&logo=netflix&logoColor=darkred), je ne peux pas me permettre une commercialisation.
+Pour ce projet, je cherche **un modelisateur 3D** qui maitrise ![Blender](https://img.shields.io/badge/Blender-fff?style=flat&logo=blender&logoColor=pin) mais surtout j'ai besoin que cette personne ait du temps libre à donner car étant donné que la licence appartient en grosse partie à ![Blender](https://img.shields.io/badge/Netflix-fff?style=flat&logo=netflix&logoColor=darkred), je ne peux pas me permettre une commercialisation.
 Ce projet ne sera donc accessible uniquement aux contributeurs.
 
-[![Contactez moi](https://img.shields.io/badge/Contactez_moi-fff?style=flat&logo=alwaysdata&logoColor=darkpink)](mailto:one-piece-vr@nicolaschoquet.fr) si vous êtes intéressé.
+[![Contactez moi](https://img.shields.io/badge/Contactez_moi-fff?style=flat&logo=alwaysdata&logoColor=darkpink)](mailto:one-piece-vr@nicolaschoquet.fr) si vous êtes intéressé à rejoindre le projet 😉.
 
 <!--<details>
     <summary>Cliquez ici pour télécharger mon CV ...</summary>
