@@ -71,8 +71,6 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
         alt="Le_répo_GitHub">
 </a>
 
-<hr>
-
 #### Technologies utilisées
 
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=flat&logo=node.js&logoColor=pin)
@@ -99,8 +97,6 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 
 ![Bash](https://img.shields.io/badge/Bash-000?style=flat&logo=linux&logoColor=white)
 ![Powershell](https://img.shields.io/badge/Powershell-000?style=flat&logo=powershell&logoColor=pin)
-
-<hr>
 
 ### La Devengers Toolbox
 
@@ -131,8 +127,6 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=pin)
 ![GitHub Actions](https://img.shields.io/badge/Github_Actions-000?style=flat&logo=github&logoColor=pin)
 
-<hr>
-
 ### Editeur visuel en React pour React
 
 <img
@@ -162,8 +156,6 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=flat&logo=bootstrap&logoColor=pin)
 ![React Use](https://img.shields.io/badge/React_Use-000?style=flat&logo=react&logoColor=pin)
 
-<hr>
-
 ### Editeur visuel en Vue pour Vue
 
 <img src="./assets/vue-visual-editor-screenshot.png" alt="App Screenshot" style="max-width: 100%; width: 500px">
@@ -188,8 +180,6 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 ![Vue.js](https://img.shields.io/badge/Vue_3_-000?style=flat&logo=vue.js&logoColor=pin)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=pin)
 ![Vue Use](https://img.shields.io/badge/Vue_Use-000?style=flat&logo=vue.js&logoColor=pin)
-
-<hr>
 
 ## Indice sur mon prochain projet 😉
 
