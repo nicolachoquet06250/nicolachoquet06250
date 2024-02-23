@@ -64,7 +64,7 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
     <img 
         src="https://img.shields.io/badge/https://nicolaschoquet.fr-fff?style=social&logo=apple&logoColor=pin" alt="https://nicolaschoquet.fr">
 </a>
-
+<br>
 <a href="https://github.com/nicolachoquet06250/portfolio-apple">
     <img 
         src="https://img.shields.io/badge/Le_répo_GitHub-fff?style=social&logo=github&logoColor=pin" 
