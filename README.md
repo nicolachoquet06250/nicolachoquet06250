@@ -206,7 +206,11 @@ Ce projet ne sera donc accessible uniquement aux contributeurs.
 
 <hr>
 
-<p style="text-align: center;">one-piece-vr@nicolaschoquet.fr</p>
+<p align="center">
+    <a href="mailto:one-piece-vr@nicolaschoquet.fr">
+        one-piece-vr@nicolaschoquet.fr
+    </a>
+</p>
 
 <!--<details>
     <summary>Cliquez ici pour télécharger mon CV ...</summary>
