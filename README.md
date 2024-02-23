@@ -204,6 +204,10 @@ Ce projet ne sera donc accessible uniquement aux contributeurs.
 
 [![Contactez moi](https://img.shields.io/badge/Contactez_moi-fff?style=flat&logo=alwaysdata&logoColor=darkpink)](mailto:one-piece-vr@nicolaschoquet.fr) si vous êtes intéressé à rejoindre le projet 😉.
 
+<hr>
+
+one-piece-vr@nicolaschoquet.fr
+
 <!--<details>
     <summary>Cliquez ici pour télécharger mon CV ...</summary>
 
