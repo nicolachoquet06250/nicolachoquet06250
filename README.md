@@ -202,7 +202,7 @@ Pour ce projet, je cherche **un modelisateur 3D** qui maitrise ![Blender](https:
 
 Ce projet ne sera donc accessible uniquement aux contributeurs.
 
-[![Cliquez ici](https://img.shields.io/badge/-fff?style=flat&logo=cliqz&logoColor=black)](mailto:one-piece-vr@nicolaschoquet.fr)[![Contactez moi] (https://img.shields.io/badge/Contactez_moi-fff?style=flat&logo=alwaysdata&logoColor=darkpink)](mailto:one-piece-vr@nicolaschoquet.fr) si vous êtes intéressé à rejoindre le projet 😉.
+[![Cliquez ici](https://img.shields.io/badge/-fff?style=flat&logo=cliqz&logoColor=black)](mailto:one-piece-vr@nicolaschoquet.fr) [![Contactez moi](https://img.shields.io/badge/Contactez_moi-fff?style=flat&logo=alwaysdata&logoColor=darkpink)](mailto:one-piece-vr@nicolaschoquet.fr) si vous êtes intéressé à rejoindre le projet 😉.
 
 <hr>
 
