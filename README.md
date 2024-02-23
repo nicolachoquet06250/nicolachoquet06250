@@ -58,8 +58,16 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
     style="max-width: 100%; width: 500px">
 
 #### Liens
-- https://nicolaschoquet.fr
-- https://github.com/nicolachoquet06250/portfolio-apple
+<a href="https://nicolaschoquet.fr">
+    <img 
+        src="https://img.shields.io/badge/https://nicolaschoquet.fr-fff?style=social&logo=apple&logoColor=pin" alt="https://nicolaschoquet.fr">
+</a>
+
+<a href="https://github.com/nicolachoquet06250/portfolio-apple">
+    <img 
+        src="https://img.shields.io/badge/Le_répo_GitHub-fff?style=social&logo=github&logoColor=pin" 
+        alt="Le_répo_GitHub">
+</a>
 
 #### Technologies utilisées
 
@@ -75,7 +83,11 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 <img src="./assets/screenshot-bash-framework.png" alt="App Screenshot" style="max-width: 100%; width: 500px">
 
 #### Liens
-- https://github.com/nicolachoquet06250/bash-aliases-framework
+<a href="https://github.com/nicolachoquet06250/bash-aliases-framework">
+    <img 
+        src="https://img.shields.io/badge/Le_répo_GitHub-fff?style=social&logo=github&logoColor=pin" 
+        alt="Le_répo_GitHub">
+</a>
 
 #### Technologies utilisées
 
@@ -89,8 +101,17 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
     style="max-width: 100%; width: 500px">
 
 #### Liens
-- https://github.com/nicolachoquet06250/norsys-devengers-toolbox
-- https://github.com/nicolachoquet06250/norsys-devengers-toolbox/releases/latest
+<a href="https://github.com/nicolachoquet06250/norsys-devengers-toolbox">
+    <img 
+        src="https://img.shields.io/badge/Le_répo_GitHub-fff?style=social&logo=github&logoColor=pin" 
+        alt="Le_répo_GitHub">
+</a>
+
+<a href="https://github.com/nicolachoquet06250/norsys-devengers-toolbox/releases/latest">
+    <img 
+        src="https://img.shields.io/badge/Dernière_release-fff?style=social&logo=github&logoColor=pin" 
+        alt="Dernière release">
+</a>
 
 #### Technologies utilisées
 
@@ -107,8 +128,17 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
     style="max-width: 100%; width: 500px">
 
 #### Liens
-- https://visual-editor.react.nicolaschoquet.fr/
-- https://github.com/nicolachoquet06250/react-visual-editor
+<a href="https://visual-editor.react.nicolaschoquet.fr">
+    <img 
+        src="https://img.shields.io/badge/https://visual&#8211;editor.react.nicolaschoquet.fr-fff?style=social&logo=react&logoColor=pin" 
+        alt="https://visual-editor.react.nicolaschoquet.fr">
+</a>
+
+<a href="https://github.com/nicolachoquet06250/react-visual-editor">
+    <img 
+        src="https://img.shields.io/badge/Le_répo_GitHub-fff?style=social&logo=github&logoColor=pin" 
+        alt="Le répo GitHub">
+</a>
 
 #### Technologies utilisées
 
@@ -123,8 +153,17 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 <img src="./assets/vue-visual-editor-screenshot.png" alt="App Screenshot" style="max-width: 100%; width: 500px">
 
 #### Liens
-- https://visual-editor.vue.nicolaschoquet.fr/
-- https://github.com/nicolachoquet06250/vuesual-editor
+<a href="https://visual-editor.vue.nicolaschoquet.fr">
+    <img 
+        src="https://img.shields.io/badge/https://visual&#8211;editor.vue.nicolaschoquet.fr-fff?style=social&logo=vue.js&logoColor=pin" 
+        alt="https://visual-editor.vue.nicolaschoquet.fr">
+</a>
+
+<a href="https://github.com/nicolachoquet06250/vuesual-editor">
+    <img 
+        src="https://img.shields.io/badge/Le_répo_GitHub-fff?style=social&logo=github&logoColor=pin" 
+        alt="Le répo GitHub">
+</a>
 
 #### Technologies utilisées
 ![Vite.js](https://img.shields.io/badge/Vite.js-000?style=flat&logo=vite&logoColor=pin)
