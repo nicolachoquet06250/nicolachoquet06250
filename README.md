@@ -106,8 +106,7 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
         src="https://img.shields.io/badge/Le_répo_GitHub-fff?style=social&logo=github&logoColor=pin" 
         alt="Le_répo_GitHub">
 </a>
-
-
+<br>
 <a href="https://github.com/nicolachoquet06250/norsys-devengers-toolbox/releases/latest">
     <img 
         src="https://img.shields.io/badge/Dernière_release-fff?style=social&logo=github&logoColor=pin" 
@@ -134,7 +133,7 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
         src="https://img.shields.io/badge/https://visual&#8211;editor.react.nicolaschoquet.fr-fff?style=social&logo=react&logoColor=pin" 
         alt="https://visual-editor.react.nicolaschoquet.fr">
 </a>
-
+<br>
 <a href="https://github.com/nicolachoquet06250/react-visual-editor">
     <img 
         src="https://img.shields.io/badge/Le_répo_GitHub-fff?style=social&logo=github&logoColor=pin" 
@@ -159,7 +158,7 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
         src="https://img.shields.io/badge/https://visual&#8211;editor.vue.nicolaschoquet.fr-fff?style=social&logo=vue.js&logoColor=pin" 
         alt="https://visual-editor.vue.nicolaschoquet.fr">
 </a>
-
+<br>
 <a href="https://github.com/nicolachoquet06250/vuesual-editor">
     <img 
         src="https://img.shields.io/badge/Le_répo_GitHub-fff?style=social&logo=github&logoColor=pin" 
