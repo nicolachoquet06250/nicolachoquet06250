@@ -181,7 +181,7 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=pin)
 ![Vue Use](https://img.shields.io/badge/Vue_Use-000?style=flat&logo=vue.js&logoColor=pin)
 
-## Indice sur mon prochain projet 😉
+## Indice sur mes prochains projets 😉
 
 <table style="border-collapse: unset;">
     <tr>
@@ -190,10 +190,22 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
                 src="./assets/one-piece-logo.png" 
                 alt="logo One piece">
         </td>
-        <td style="border: none;">
+        <td style="border: none;" rowspan="2">
             <img 
                 src="./assets/meta-quest-2.png" 
                 alt="Meta quest 2">
+        </td>
+    </tr>
+    <tr>
+        <td style="border: none;">
+            <img 
+                src="./assets/logo-avatar-last-airbender-black.png#gh-light-mode-only" 
+                alt="logo avatar: le dernier maitre de l'air"
+                width="100%">
+            <img 
+                src="./assets/logo-avatar-last-airbender-white.png#gh-dark-mode-only" 
+                alt="logo avatar: le dernier maitre de l'air"
+                width="100%">
         </td>
     </tr>
 </table>
