@@ -69,6 +69,8 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
         alt="Le_répo_GitHub">
 </a>
 
+<hr>
+
 #### Technologies utilisées
 
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=flat&logo=node.js&logoColor=pin)
