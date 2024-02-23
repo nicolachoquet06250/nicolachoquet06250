@@ -52,12 +52,14 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 ## Mes projets phares
 
 ### WebOS Apple (Portfolio)
+
 <img
     src="https://github.com/nicolachoquet06250/portfolio-apple/blob/main/screenshots/1280x800-screenshot.png" 
     alt="Apple Operating System portfolio" 
     style="max-width: 100%; width: 500px">
 
 #### Liens
+
 <a href="https://nicolaschoquet.fr">
     <img 
         src="https://img.shields.io/badge/https://nicolaschoquet.fr-fff?style=social&logo=apple&logoColor=pin" alt="https://nicolaschoquet.fr">
@@ -82,9 +84,11 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 ![Vue Use](https://img.shields.io/badge/Vue_Use-000?style=flat&logo=vue.js&logoColor=pin)
 
 ### Framework de création d'aliases complexes
+
 <img src="./assets/screenshot-bash-framework.png" alt="App Screenshot" style="max-width: 100%; width: 500px">
 
 #### Liens
+
 <a href="https://github.com/nicolachoquet06250/bash-aliases-framework">
     <img 
         src="https://img.shields.io/badge/Le_répo_GitHub-fff?style=social&logo=github&logoColor=pin" 
@@ -96,13 +100,17 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 ![Bash](https://img.shields.io/badge/Bash-000?style=flat&logo=linux&logoColor=white)
 ![Powershell](https://img.shields.io/badge/Powershell-000?style=flat&logo=powershell&logoColor=pin)
 
+<hr>
+
 ### La Devengers Toolbox
+
 <img 
     src="https://github.com/nicolachoquet06250/norsys-devengers-toolbox/blob/main/.github/screenshot.png" 
     alt="Devengers Toolbox" 
     style="max-width: 100%; width: 500px">
 
 #### Liens
+
 <a href="https://github.com/nicolachoquet06250/norsys-devengers-toolbox">
     <img 
         src="https://img.shields.io/badge/Le_répo_GitHub-fff?style=social&logo=github&logoColor=pin" 
@@ -123,13 +131,17 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=pin)
 ![GitHub Actions](https://img.shields.io/badge/Github_Actions-000?style=flat&logo=github&logoColor=pin)
 
+<hr>
+
 ### Editeur visuel en React pour React
+
 <img
     src="./assets/react-visual-editor-screenshot.png"
     alt="React.js Visual editor" 
     style="max-width: 100%; width: 500px">
 
 #### Liens
+
 <a href="https://visual-editor.react.nicolaschoquet.fr">
     <img 
         src="https://img.shields.io/badge/https://visual&#8211;editor.react.nicolaschoquet.fr-fff?style=social&logo=react&logoColor=pin" 
@@ -150,11 +162,14 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=flat&logo=bootstrap&logoColor=pin)
 ![React Use](https://img.shields.io/badge/React_Use-000?style=flat&logo=react&logoColor=pin)
 
+<hr>
 
 ### Editeur visuel en Vue pour Vue
+
 <img src="./assets/vue-visual-editor-screenshot.png" alt="App Screenshot" style="max-width: 100%; width: 500px">
 
 #### Liens
+
 <a href="https://visual-editor.vue.nicolaschoquet.fr">
     <img 
         src="https://img.shields.io/badge/https://visual&#8211;editor.vue.nicolaschoquet.fr-fff?style=social&logo=vue.js&logoColor=pin" 
@@ -168,10 +183,13 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 </a>
 
 #### Technologies utilisées
+
 ![Vite.js](https://img.shields.io/badge/Vite.js-000?style=flat&logo=vite&logoColor=pin)
 ![Vue.js](https://img.shields.io/badge/Vue_3_-000?style=flat&logo=vue.js&logoColor=pin)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=pin)
 ![Vue Use](https://img.shields.io/badge/Vue_Use-000?style=flat&logo=vue.js&logoColor=pin)
+
+<hr>
 
 ## Indice sur mon prochain projet 😉
 
