@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./assets/profile-header.png" alt="Profile Header" width="100%" >
+<img src="./assets/cv_assets/header-CV.png" alt="Profile Header" width="100%" >
 
 
 # Nicolas Choquet
