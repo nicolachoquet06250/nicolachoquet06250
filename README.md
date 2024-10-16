@@ -201,16 +201,13 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
     <tr>
         <td style="border: none;">
             <a href="./AVATAR-THE-LAST-AIRBENDER.md">
-                <img 
-                    src="./assets/logo-avatar-last-airbender-black.png#gh-light-mode-only" 
-                    alt="logo avatar: le dernier maitre de l'air"
-                    width="100%">
-                <img 
-                    src="./assets/logo-avatar-last-airbender-white.png#gh-dark-mode-only" 
-                    alt="logo avatar: le dernier maitre de l'air"
-                    width="100%">
-            </a>
-        </td>
+                <picture width="100%">
+                    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-avatar-last-airbender-white.png">
+                    <source media="(prefers-color-scheme: light)" srcset="./assets/logo-avatar-last-airbender-black.png">
+                    <img alt="logo avatar: le dernier maitre de l'air" src="./assets/logo-avatar-last-airbender-black.png">
+                </picture>
+ 0           </a>
+ 0       </td>
     </tr>
 </table>
 
