@@ -206,8 +206,8 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
                     <source media="(prefers-color-scheme: light)" srcset="./assets/logo-avatar-last-airbender-black.png">
                     <img alt="logo avatar: le dernier maitre de l'air" src="./assets/logo-avatar-last-airbender-black.png">
                 </picture>
- 0           </a>
- 0       </td>
+            </a>
+        </td>
     </tr>
 </table>
 
