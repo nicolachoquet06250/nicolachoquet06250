@@ -186,9 +186,11 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 <table style="border-collapse: unset;">
     <tr>
         <td style="border: none;">
-            <img 
-                src="./assets/one-piece-logo.png" 
-                alt="logo One piece">
+            <a href="./ONE-PIECE.md">
+                <img 
+                    src="./assets/one-piece-logo.png" 
+                    alt="logo One piece">
+            </a>
         </td>
         <td style="border: none;" rowspan="2">
             <img 
@@ -198,14 +200,16 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
     </tr>
     <tr>
         <td style="border: none;">
-            <img 
-                src="./assets/logo-avatar-last-airbender-black.png#gh-light-mode-only" 
-                alt="logo avatar: le dernier maitre de l'air"
-                width="100%">
-            <img 
-                src="./assets/logo-avatar-last-airbender-white.png#gh-dark-mode-only" 
-                alt="logo avatar: le dernier maitre de l'air"
-                width="100%">
+            <a href="./AVATAR-THE-LAST-AIRBENDER.md">
+                <img 
+                    src="./assets/logo-avatar-last-airbender-black.png#gh-light-mode-only" 
+                    alt="logo avatar: le dernier maitre de l'air"
+                    width="100%">
+                <img 
+                    src="./assets/logo-avatar-last-airbender-white.png#gh-dark-mode-only" 
+                    alt="logo avatar: le dernier maitre de l'air"
+                    width="100%">
+            </a>
         </td>
     </tr>
 </table>
