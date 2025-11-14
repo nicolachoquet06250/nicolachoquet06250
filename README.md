@@ -30,7 +30,7 @@ En gros on peux absoluement tout faire avec en partant évidement du web classiq
 
 ## 🚀 À propos de moi
 
-J'ai 29 ans et je suis absoluement passionné de prog.
+J'ai 30 ans et je suis absoluement passionné de prog.
 
 Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 
@@ -50,6 +50,19 @@ Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 
 
 ## Mes projets phares
+
+### Go Build Configurator
+> Petite surcouche de `go build` permettant de définir le répertoire de sortie et le nom du binaire en fonction de la plateform de build directement dans un fichier de configuration 
+#### Liens
+<a href="https://github.com/nicolachoquet06250/go-build-configurator">
+    <img 
+        src="https://img.shields.io/badge/Le_répo_GitHub-fff?style=social&logo=github&logoColor=pin" 
+        alt="Le_répo_GitHub">
+</a>
+
+#### Technologies utilisées
+
+![Golang v1.25](https://img.shields.io/badge/Golang-1.25-000?style=flat&logo=go&logoColor=pin)
 
 ### WebOS Apple (Portfolio)
 
