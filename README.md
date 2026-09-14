@@ -30,7 +30,7 @@ En gros on peux absoluement tout faire avec en partant évidement du web classiq
 
 ## 🚀 À propos de moi
 
-J'ai 30 ans et je suis absoluement passionné de prog.
+J'ai 31 ans et je suis absoluement passionné de prog.
 
 Ma deuxième passion n'a rien à voir avec l'informatique, c'est le chant 😁
 
