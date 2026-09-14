@@ -25,7 +25,7 @@ Développeur Full Stack touche à tout 🙂
 Mon langage de prédilection c'est le JavaScript (TypeScript depuis peu) pour son angle d'attaque extra-large.
 En gros on peux absoluement tout faire avec en partant évidement du web classique en passant par du mobile et jusqu'à de la réalité virtuelle/augmentée voir du jeu vidéo 😁
 
-[![Choquet Nicolas's Dev Card](https://api.daily.dev/devcards/v2/cHc6XLZhteM0Ws18o8K5W.png?type=wide&r=x7p)
+![Choquet Nicolas's Dev Card](https://api.daily.dev/devcards/v2/cHc6XLZhteM0Ws18o8K5W.png?type=wide&r=x7p)
 
 
 ## 🚀 À propos de moi
